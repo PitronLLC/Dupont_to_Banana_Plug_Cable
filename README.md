@@ -1,4 +1,4 @@
-# Pitron Dupont to Banana Cable
+# Pitron Dupont to Banana Plug Cable
 
 This is a 2.54mm Male Dupont Connector to Banana Plug Cable.
 
