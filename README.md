@@ -1,6 +1,6 @@
-# Pitron Dupont to Banana Plug Cable
+# Pitron Banana Breadboard Testleads
 
-This is a 2.54mm Male Dupont Connector to Banana Plug Cable.
+
 
 
 
