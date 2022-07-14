@@ -2,6 +2,10 @@
 
 [![Pitron Banana Breadboard Testleds](https://www.eevblog.com/forum/projects/breadboard-test-leads/?action=dlattach;attach=1538086;image)](https://www.pitronllc.com)
 
+These test leads are perfect for connecting a multi-meter or power supply to a solderless breadboard.
+
+Pitron Test Leads (PTL's) are ideal for electrical and electronic testing. They're also suitable for Arduino, Raspberry Pi, wearable circuit projects and breadboard experiments.
+
 Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
