@@ -8,7 +8,7 @@ Pitron Test Leads (PTL's) are ideal for electrical and electronic testing. They'
 
 Repository Contents
 -------------------
-* **/Hardware** - All Eagle design files (.brd, .sch)
+* **/Hardware** - All AutoCAD & SolidWorks design files (.dwg)
 * **/Production** - Test bed files and production panel files
 
 
