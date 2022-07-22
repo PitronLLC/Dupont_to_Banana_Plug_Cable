@@ -1,6 +1,6 @@
 # Pitron Banana Breadboard Test Leads
 
-[![Pitron Banana Breadboard Testleds](https://cdn.hackaday.io/images/8152101658527287369.png)](https://www.pitronllc.com)
+[![Pitron Banana Breadboard Testleds](https://cdn.hackaday.io/images/8152101658527287369.png)](https://www.pitron.cc)
 
 These test leads are perfect for connecting a multi-meter or power supply to a solderless breadboard.
 
